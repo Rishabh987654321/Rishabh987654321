@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh kumar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java+dsa
-- 💞️ I’m looking to collaborate on with projects based on java
+- 🌱 I’m currently learning fullstack development
+- 💞️ I’m looking to collaborate on with projects based on web development
 - 📫reach me via rishabhkumar90063@gmail.com
 
 <!---
