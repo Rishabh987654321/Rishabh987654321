@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh kumar
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on with projects based on App development
+- 💞️ I’m looking to collaborate on with projects based on Web development
 - 📫reach me via rishabhkumar90063@gmail.com
 
 <!---
