@@ -105,8 +105,8 @@ A production-ready React component library published to npm.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh987654321&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh987654321&layout=compact&theme=github_dark&cache_seconds=86400" />
 </p>
 
 <p align="center">
