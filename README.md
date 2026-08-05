@@ -123,8 +123,6 @@ A production-ready React component library.
 
 ## 🐍 Contribution Snake
 
-> Configure the GitHub Action first, then this image will update automatically.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabh987654321/Rishabh987654321/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
