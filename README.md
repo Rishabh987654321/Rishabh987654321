@@ -111,7 +111,7 @@ A production-ready React component library published to npm.
 ## 📫 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-kumar-730492233/)
-* 🌐 https://3-d-portfolio-three-beta.vercel.app/
+* 🌐 [Portfolio](https://3-d-portfolio-three-beta.vercel.app/)
 * 📧 [rishabhkumar90063@gmail.com](mailto:rishabhkumar90063@gmail.com)
 
 I'm always interested in discussing frontend engineering, performance optimization, AI-powered products, and building exceptional developer experiences.
