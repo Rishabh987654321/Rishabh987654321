@@ -10,13 +10,13 @@ Currently, I'm building AI-powered enterprise healthcare analytics platforms at 
 
 ## 🚀 About Me
 
-* 💼 Software Engineer at **Perceptiviti Data Solutions**
-* ⚛️ React & TypeScript specialist
-* 🏗️ Build scalable design systems and reusable component libraries
-* 📊 Love solving complex UI performance challenges
-* 🤖 Interested in AI-powered developer experiences
-* ☁️ Experience deploying production applications on Azure
-* 🌱 Always learning better frontend architecture and modern web technologies
+- 💼 Software Engineer at **Perceptiviti Data Solutions**
+- ⚛️ React & TypeScript specialist
+- 🏗️ Build scalable design systems and reusable component libraries
+- 📊 Love solving complex UI performance challenges
+- 🤖 Interested in AI-powered developer experiences
+- ☁️ Experience deploying production applications on Azure
+- 🌱 Always learning better frontend architecture and modern web technologies
 
 ---
 
@@ -24,22 +24,22 @@ Currently, I'm building AI-powered enterprise healthcare analytics platforms at 
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge\&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge\&logo=redux)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/-Zustand-black?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge\&logo=mui)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui)
 
 ### Backend
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge\&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge\&logo=graphql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge\&logo=redis)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis)
 
 ### Cloud & DevOps
 
@@ -67,55 +67,82 @@ A high-performance virtualized React data grid capable of rendering **1M+ rows a
 
 **Highlights**
 
-* Custom virtualization engine
-* Multi-column sorting & filtering
-* Frozen & resizable columns
-* Keyboard navigation
-* Accessibility (ARIA)
-* React performance optimizations
+- Custom virtualization engine
+- Multi-column sorting & filtering
+- Frozen & resizable columns
+- Keyboard navigation
+- Accessibility (ARIA)
+- React performance optimizations
 
 ---
 
 ### 🎨 React Component Library
 
-A production-ready React component library published to npm.
+A production-ready React component library.
 
 **Features**
 
-* 16 accessible UI components
-* TypeScript support
-* Tree-shakable builds
-* Storybook documentation
-* Light/Dark themes
-* GitHub Actions CI
-* Automated accessibility testing
+- 16 accessible UI components
+- TypeScript support
+- Tree-shakable builds
+- Storybook documentation
+- Light/Dark themes
+- GitHub Actions CI
+- Automated accessibility testing
 
 ---
 
 ## 💼 What I'm Working On
 
-* Building AI-powered enterprise analytics platforms
-* Performance-focused React applications
-* Reusable dashboard frameworks
-* Modern design systems
-* Interactive data visualization
-* AI-assisted developer tools
+- Building AI-powered enterprise analytics platforms
+- Performance-focused React applications
+- Reusable dashboard frameworks
+- Modern design systems
+- Interactive data visualization
+- AI-assisted developer tools
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh987654321&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh987654321&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
+## 📊 Contribution Graph
+
+> ⚠️ This uses a public service and may not render if the service is unavailable.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh987654321&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Configure the GitHub Action first, then this image will update automatically.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh987654321/Rishabh987654321/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh987654321&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
 
 ## 📫 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-kumar-730492233/)
-* 🌐 [Portfolio](https://3-d-portfolio-three-beta.vercel.app/)
-* 📧 [rishabhkumar90063@gmail.com](mailto:rishabhkumar90063@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-kumar-730492233/)
+- 🌐 [Portfolio](https://3-d-portfolio-three-beta.vercel.app/)
+- 📧 [rishabhkumar90063@gmail.com](mailto:rishabhkumar90063@gmail.com)
 
 I'm always interested in discussing frontend engineering, performance optimization, AI-powered products, and building exceptional developer experiences.
