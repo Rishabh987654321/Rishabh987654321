@@ -2,7 +2,7 @@
 
 ### Frontend Engineer • React • TypeScript • Performance Enthusiast
 
-I'm a Software Engineer passionate about building fast, scalable, and delightful web applications. My primary focus is creating high-performance frontend experiences with **React** and **TypeScript**, while also building robust backend services using **Python**, **Django**, and **FastAPI**.
+I'm a Software Engineer passionate about building fast, scalable, and delightful web applications. My primary focus is creating high-performance frontend experiences with **React** and **TypeScript**, while also building robust backend services using **Python**, **Django**, and **RestAPI**.
 
 Currently, I'm building AI-powered enterprise healthcare analytics platforms at **Perceptiviti Data Solutions**, where I develop large-scale dashboards, reusable UI systems, and conversational analytics powered by Azure OpenAI and AWS Bedrock.
 
