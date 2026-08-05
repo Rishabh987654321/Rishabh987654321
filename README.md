@@ -104,16 +104,40 @@ A production-ready React component library published to npm.
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh987654321&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh987654321&layout=compact&theme=github_dark&cache_seconds=86400" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh987654321&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
+
+## 📊 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh987654321&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishabh987654321&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishabh987654321&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishabh987654321&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh987654321&theme=github_dark&utcOffset=5.5"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rishabh987654321&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
+</p>
+
+---
+
+
 
 ## 📫 Let's Connect
 
