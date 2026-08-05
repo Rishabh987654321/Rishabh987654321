@@ -111,33 +111,6 @@ A production-ready React component library published to npm.
 
 ---
 
-## 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh987654321&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishabh987654321&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishabh987654321&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishabh987654321&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabh987654321&theme=github_dark&utcOffset=5.5"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabh987654321&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-
----
-
-
 
 ## 📫 Let's Connect
 
