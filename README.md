@@ -113,8 +113,6 @@ A production-ready React component library.
 
 ## 📊 Contribution Graph
 
-> ⚠️ This uses a public service and may not render if the service is unavailable.
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh987654321&theme=github-dark&hide_border=true"/>
 </p>
